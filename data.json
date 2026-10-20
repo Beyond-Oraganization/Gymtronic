@@ -1,0 +1,76 @@
+{
+    "difficulties":{
+        "easy":{"sets":[2,3],"reps":[6,8]},
+        "medium":{"sets":[3,4],"reps":[10,12]},
+        "hard":{"sets":[4,5],"reps":[15,20]}
+    },
+
+    "back":{
+        "1":"Pull-ups",
+        "2":"Australian pull-ups",
+        "3":"Hyperextension on a simulator",
+        "4":"Lying hyperextension on the floor",
+        "5":"Lying hyperextension on a fitball",
+        "6":"Jefferson curl",
+        "7":"Dumbbell row on a bench",
+        "8":"Vertical block pull",
+        "9":"Horizontal block pull",
+        "10":"Bent-over barbell row",
+        "11":"Bent-over T-bar row",
+        "12":"Pullover in a crossover",
+        "13":"Dumbbell pullover",
+        "14":"Dumbbell lateral raises while bent over",
+        "15":"Bent-over arm raises with an expander"
+    },
+    "shoulders":{
+        "1":"Standing barbell press",
+        "2":"Bent-over dumbbell flyes",
+        "3":"Wide-grip barbell chin-ups",
+        "4":"Seated dumbbell press",
+        "5":"Dumbbell lateral raises",
+        "6":"Crossover arm raises",
+        "7":"Crossover Front Raises",
+        "8":"Lat pulldown",
+        "9":"Arm abduction with a fitness band",
+        "10":"Arm raise with a resistance band"
+    },
+    
+    "legs":{
+        "1":"Barbell front squat",
+        "2":"Kettlebell swing",
+        "3":"Barbell bulgarian split squat",
+        "4":"Standing dumbbell calf raise",
+        "5":"Romanian deadlift",
+        "6":"Reverse lunge",
+        "7":"Leg extension",
+        "8":"Sumo squat",
+        "9":"Thruster",
+        "10":"Barbell Front Squats"
+    },
+
+    "core":{
+        "1":"Forearm plank",
+        "2":"Russian twist",
+        "3":"Butterfly sit-up",
+        "4":"Dead bug",
+        "5":"Jackknife",
+        "6":"Hollow body rock",
+        "7":"Wheelbarrow",
+        "8":"Rolling like a ball",
+        "9":"Leg Raise",
+        "10":"Plank shoulder tap"
+    },
+
+    "chest":{
+        "1":"Incline dumbbell bench press",
+        "2":"Barbell bench press",
+        "3":"Standing cable fly",
+        "4":"Chest dip",
+        "5":"Push-ups",
+        "6":"Standing low to high cable fly",
+        "7":"Barbell pullover",
+        "8":"Incline push-ups",
+        "9":"Dumbbell twist press",
+        "10":"Wide grip incline bench press"
+    }
+}
