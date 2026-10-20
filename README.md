@@ -2,6 +2,8 @@
 
 A python script that creates a certain workout plan based on user input
 
+Built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+
 ## Main features
 - Add your custom exercises or exercise categories to data.json as "category":{"code":"exercise"}
 - Add your custom difficulties to data.json as "difficulties":{"difficulty":{"sets":[0,0],"reps":[0,0]}
